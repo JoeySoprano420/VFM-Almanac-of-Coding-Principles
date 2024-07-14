@@ -8,7 +8,7 @@ Write-up of the Unified Programming Logic and Systems Framework (UPLSF), incorpo
 
 ## Introduction
 
-The Unified Programming Logic and Systems Framework (UPLSF) provides a structured methodology for modern software development, integrating advanced paradigms and methodologies to effectively address contemporary computational challenges. By synthesizing principles from Unified Programming Logic (UPL), Systems-of-Programming, Meta-Data Refinement Initiative (MDRI), Joeyan Format, Simplified Programming Logic and Control (SPLAC), and Structured Code Abstraction and Layered Programming (SCALP), UPLSF aims to enhance code clarity, reliability, and scalability across diverse programming environments.
+The Unified Programming Logic and Systems Framework (UPLSF) provides a structured methodology for modern software development, integrating advanced paradigms and methodologies to effectively address contemporary computational challenges. By synthesizing principles from Unified Programming Logic (UPL), Systems-of-Programming, Machine Dialogue Readable Input (MDRI), Joeyan Format, Simplified Programming Logic and Control (SPLAC), and Structured Code Abstraction and Layered Programming (SCALP), UPLSF aims to enhance code clarity, reliability, and scalability across diverse programming environments.
 
 ## Key Principles and Components
 
@@ -49,7 +49,7 @@ The Unified Programming Logic and Systems Framework (UPLSF) provides a structure
    - **Resource Optimization:** Optimize resource allocation and scaling mechanisms based on dynamic workload demands.
    - **Containerization:** Utilize containerization and orchestration tools (e.g., Docker, Kubernetes) for efficient management of distributed systems.
 
-## Meta-Data Refinement Initiative (MDRI)
+## Machine Dialogue Readable Input (MDRI)
 
 MDRI enhances metadata management and improves data organization within UPLSF, optimizing data accessibility, retrieval, and utilization efficiency.
 
